@@ -1,0 +1,1 @@
+Synchronize pressing the left mouse button with the touch of the first edge of a rectangle (moving target) with a contact line (fixed target). In a 120 Hz monitor screen, the target moves for 1400 milliseconds (ms) with occlusion in the final 784 ms of the movement, (initial velocity = 28.3 gva/s, with deceleration of 5.7 gva/s²).
